@@ -25,7 +25,6 @@ class MusicLibraryController
         list_artists
       when 'list genres'
         list_genres
-        
       end
 
     end
